@@ -528,7 +528,7 @@ fill: transparent;}
 .policy{color:var(--button-background-color)}
 
 .modal-send-btn{
-       font-weight: 500;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     display: block;
@@ -639,7 +639,7 @@ margin-bottom: 8px;}
     color: var(--secondary-text-color);}
 
 .portfolio-cover{position: relative;
-    overflow: hidden;
+    overflow: hidden;}
 .portfolio-cover-info{position: absolute;
 top: 0;
 left: 0;
